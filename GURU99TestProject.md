@@ -17,4 +17,7 @@ This repository includes test project provided by : https://www.guru99.com/softw
 
 [New Customer Test Cases](https://docs.google.com/spreadsheets/d/1iNxweWF6CBkJfnmPJ1MrvFWuZM0IF0lbm8zhkF0N0h4/edit?usp=share_link)
 
+[Edit Customer Test Cases](https://docs.google.com/spreadsheets/d/1kYG7jFZaOC73DPa0YkaI9R6jot89PLnFUPF7jtN5Xtk/edit?usp=share_link)
+
+
 
