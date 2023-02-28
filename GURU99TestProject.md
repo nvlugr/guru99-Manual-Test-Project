@@ -21,5 +21,14 @@ This repository includes test project provided by : https://www.guru99.com/softw
 
 [Edit Account Test Cases](https://docs.google.com/spreadsheets/d/1sUrseF2-RbbRj5sbS5facFLoIgx7bkOdf33jyaShz4c/edit?usp=share_link)
 
+[Delete Account Test Cases](https://docs.google.com/spreadsheets/d/1QsCxUp0YCLsMUCiIXeilfsv6ltC6rY9uzRLR7-DH8jM/edit?usp=share_link)
+
+[Delete Customer Test Cases](https://docs.google.com/spreadsheets/d/1q5mTEv5TPLc-uyDiE1-sOYNPPqqTSf3UOSs6lmUrgZU/edit?usp=share_link)
+
+[Mini Statement Test Cases](https://docs.google.com/spreadsheets/d/1b63bKOW2FTN_he5BKot3G-VktaHdESmfs9V7pNtWVLA/edit?usp=share_link)
+
+[Customized Statement Test Cases](https://docs.google.com/spreadsheets/d/19O59nGgLVCSzistQOfzQ2HXPKUu8ph2dZy-z4mt1aFs/edit?usp=share_link)
+
+
 
 
