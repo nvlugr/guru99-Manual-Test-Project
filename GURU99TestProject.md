@@ -29,6 +29,9 @@ This repository includes test project provided by : https://www.guru99.com/softw
 
 [Customized Statement Test Cases](https://docs.google.com/spreadsheets/d/19O59nGgLVCSzistQOfzQ2HXPKUu8ph2dZy-z4mt1aFs/edit?usp=share_link)
 
+## Bug Report
+
+[Bug Report](https://docs.google.com/spreadsheets/d/1o4eWJ2QBLoQQ5sdKMgjeUMr4hsODj5GSOVjVRd0SuQE/edit?usp=share_link)
 
 
 
