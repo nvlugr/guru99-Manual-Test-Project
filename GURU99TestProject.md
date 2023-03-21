@@ -79,10 +79,12 @@ This repository includes test project provided by : https://www.guru99.com/softw
 
 
 ## System Testing
-
+#### (BDD Language)
 
 
 [Manager Account System Test Cases v3](https://docs.google.com/spreadsheets/d/1PL1Odsiw41U1S0MQq1ygW_wr2xTPjC1AKwNZ-e7GZiY/edit?usp=share_link) 
+
+[Customer Account System Test Cases v3](https://docs.google.com/spreadsheets/d/1et1LUp5_uwrH9eWlXegSxwBgwPb51vWc3y_pX22Bgvk/edit?usp=share_link) 
 
 
 
