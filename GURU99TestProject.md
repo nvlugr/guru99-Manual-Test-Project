@@ -87,6 +87,9 @@ This repository includes test project provided by : https://www.guru99.com/softw
 [Customer Account-System Test Cases v3](https://docs.google.com/spreadsheets/d/1et1LUp5_uwrH9eWlXegSxwBgwPb51vWc3y_pX22Bgvk/edit?usp=share_link) 
 
 
+[Bug Report v3](https://docs.google.com/spreadsheets/d/1EH6aE0xWoMhBaJtWDoow6NktLZ3FwlKCx9UKRoVruKs/edit?usp=share_link) 
+
+
 
 
 
